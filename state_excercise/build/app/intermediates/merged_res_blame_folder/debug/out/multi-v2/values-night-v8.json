@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter\\TAILIEU\\Baitap\\state_excercise\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\Flutter\\TAILIEU\\Baitap\\BT_HongDiem\\state_excercise\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\Flutter\\TAILIEU\\Baitap\\state_excercise\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\Flutter\\TAILIEU\\Baitap\\BT_HongDiem\\state_excercise\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

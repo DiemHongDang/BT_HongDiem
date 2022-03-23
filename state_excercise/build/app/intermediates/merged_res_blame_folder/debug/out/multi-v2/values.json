@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter\\TAILIEU\\Baitap\\state_excercise\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Flutter\\TAILIEU\\Baitap\\BT_HongDiem\\state_excercise\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\03c633e46d75bfb21f082f0417f55161\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Flutter\\TAILIEU\\Baitap\\state_excercise\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Flutter\\TAILIEU\\Baitap\\BT_HongDiem\\state_excercise\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
